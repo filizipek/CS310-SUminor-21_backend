@@ -1,0 +1,56 @@
+Course DECB1 = new Course("DECB", "ECON201", "Required");
+Course DECB2 = new Course("DECB", "PSY201", "Required");
+Course DECB3 = new Course("DECB", "CS210", "Core");
+Course DECB4 = new Course("DECB", "MATH306", "Core");
+Course DECB5 = new Course("DECB", "MGMT203", "Core");
+Course DECB6 = new Course("DECB", "PSY202", "Core");
+Course DECB7 = new Course("DECB", "SPS311", "Core");
+Course DECB8 = new Course("DECB", "CONF300", "Area");
+Course DECB9 = new Course("DECB", "CONF400", "Area");
+Course DECB10 = new Course("DECB", "CS404", "Area");
+Course DECB11 = new Course("DECB", "CS412", "Area");
+Course DECB12 = new Course("DECB", "CULT434", "Area");
+Course DECB13 = new Course("DECB", "ECON312", "Area");
+Course DECB14 = new Course("DECB", "IE405", "Area");
+Course DECB15 = new Course("DECB", "IF467", "Area");
+Course DECB16 = new Course("DECB", "IR403", "Area");
+Course DECB17 = new Course("DECB", "IR489", "Area");
+Course DECB18 = new Course("DECB", "IR493", "Area");
+Course DECB19 = new Course("DECB", "MGMT414", "Area");
+Course DECB20 = new Course("DECB", "MKTG301", "Area");
+Course DECB21 = new Course("DECB", "MKTG401", "Area");
+Course DECB22 = new Course("DECB", "MKTG402", "Area");
+Course DECB23 = new Course("DECB", "MKTG410", "Area");
+Course DECB24 = new Course("DECB", "ORG302", "Area");
+Course DECB25 = new Course("DECB", "ORG401", "Area");
+Course DECB26 = new Course("DECB", "PHIL310", "Area");
+Course DECB27 = new Course("DECB", "POLS303", "Area");
+Course DECB28 = new Course("DECB", "POLS351", "Area");
+Course DECB29 = new Course("DECB", "POLS401", "Area");
+Course DECB30 = new Course("DECB", "POLS404", "Area");
+Course DECB31 = new Course("DECB", "POLS483", "Area");
+Course DECB32 = new Course("DECB", "PSY310", "Area");
+Course DECB33 = new Course("DECB", "PSY311", "Area");
+Course DECB34 = new Course("DECB", "PSY312", "Area");
+Course DECB35 = new Course("DECB", "PSY314", "Area");
+Course DECB36 = new Course("DECB", "PSY315", "Area");
+Course DECB37 = new Course("DECB", "PSY317", "Area");
+Course DECB38 = new Course("DECB", "PSY320", "Area");
+Course DECB39 = new Course("DECB", "PSY322", "Area");
+Course DECB40 = new Course("DECB", "PSY340", "Area");
+Course DECB41 = new Course("DECB", "PSY344", "Area");
+Course DECB42 = new Course("DECB", "PSY350", "Area");
+Course DECB43 = new Course("DECB", "PSY416", "Area");
+Course DECB44 = new Course("DECB", "PSY450", "Area");
+Course DECB45 = new Course("DECB", "PSY452", "Area");
+Course DECB46 = new Course("DECB", "SOC201", "Area");
+Course DECB47 = new Course("DECB", "SOC321", "Area");
+Course DECB48 = new Course("DECB", "SOC432", "Area");
+Course DECB49 = new Course("DECB", "SPS315", "Area");
+
+
+
+
+
+
+

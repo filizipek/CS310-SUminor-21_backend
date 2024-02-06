@@ -1,0 +1,72 @@
+Course ARTTC1 = new Course(“ARTTC”, “HUM202”, “Requried”);
+Course ARTTC2 = new Course(“ARTTC”, “HUM312”, “Requried");
+Course ARTTC3 = new Course(“ARTTC”, “CULT432”, “Core”);
+Course ARTTC4 = new Course(“ARTTC”, “FILM432”, “Core");
+Course ARTTC5 = new Course(“ARTTC”, “HART213”, “Core");
+Course ARTTC6 = new Course(“ARTTC”, “HART234”, “Core");
+Course ARTTC7 = new Course(“ARTTC”, “ HART292”, “Core");
+Course ARTTC8 = new Course(“ARTTC”, “ HART293”, “Core");
+Course ARTTC9 = new Course(“ARTTC”, “ HART311”, “Core");
+Course ARTTC10 = new Course(“ARTTC”, “ HART413”, “Core");
+Course ARTTC11 = new Course(“ARTTC”, “ HART414”, “Core”);
+Course ARTTC12 = new Course(“ARTTC”, “ HART480”, “Core");
+Course ARTTC13 = new Course(“ARTTC”, “ VA315”, “Core");
+Course ARTTC14 = new Course(“ARTTC”, “ VA416”, “Core");
+Course ARTTC15 = new Course(“ARTTC”, “ VA420”, “Core");
+Course ARTTC16 = new Course(“ARTTC”, “ VA430”, “Core");
+Course ARTTC17 = new Course(“ARTTC”, “ VA412”, “Core”);
+Course ARTTC18 = new Course(“ARTTC”, “ FILM231”, “Area”);
+Course ARTTC19 = new Course(“ARTTC”, “ FILM331”, “Area");
+Course ARTTC20 = new Course(“ARTTC”, “ FILM335”, “Area");
+Course ARTTC21 = new Course(“ARTTC”, “ FILM345”, “Area");
+Course ARTTC22 = new Course(“ARTTC”, “ FILM390", “Area");
+Course ARTTC23 = new Course(“ARTTC”, “ FILM424”, “Area");
+Course ARTTC24 = new Course(“ARTTC”, “ FILM435”, “Area");
+Course ARTTC25 = new Course(“ARTTC”, “ FILM436”, “Area”);
+Course ARTTC26 = new Course(“ARTTC”, “ FILM452”, “Area");
+Course ARTTC27 = new Course(“ARTTC”, “ HART312”, “Area");
+Course ARTTC28 = new Course(“ARTTC”, “ HART320”, “Area”);
+Course ARTTC29 = new Course(“ARTTC”, “ HART323", “Area”);
+Course ARTTC30 = new Course(“ARTTC”, “ HART330", “Area”);
+Course ARTTC31 = new Course(“ARTTC”, “ HART333", “Area”);
+Course ARTTC32 = new Course(“ARTTC”, “ HART334", “Area”);
+Course ARTTC33 = new Course(“ARTTC”, “ HART392", “Area”);
+Course ARTTC34 = new Course(“ARTTC”, “ HART411", “Area”);
+Course ARTTC35 = new Course(“ARTTC”, “ HART424", “Area”);
+Course ARTTC36 = new Course(“ARTTC”, “ HART425", “Area”);
+Course ARTTC37 = new Course(“ARTTC”, “ HART426", “Area”);
+Course ARTTC38 = new Course(“ARTTC”, “ HART431", “Area”);
+Course ARTTC39 = new Course(“ARTTC”, “ HART432", “Area”);
+Course ARTTC40 = new Course(“ARTTC”, “ HART434", “Area”);
+Course ARTTC41 = new Course(“ARTTC”, “ HART444", “Area”);
+Course ARTTC42 = new Course(“ARTTC”, “ HART450", “Area”);
+Course ARTTC43 = new Course(“ARTTC”, “PHIL322", “Area”);
+Course ARTTC44 = new Course(“ARTTC”, “PSY310", “Area”);
+Course ARTTC45 = new Course(“ARTTC”, “PSY412", “Area”);
+Course ARTTC46 = new Course(“ARTTC”, “VA329", “Area”);
+Course ARTTC47 = new Course(“ARTTC”, “VIS308", “Area”);
+Course ARTTC48 = new Course(“ARTTC”, “VIS310", “Area”);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

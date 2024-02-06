@@ -1,0 +1,17 @@
+Course CHEM1 = new Course(“CHEM”, “CHEM202”,“Required");
+Course CHEM2 = new Course(“CHEM”, “CHEM301”,“Required");
+Course CHEM3 = new Course(“CHEM”, “CHEM302”,“Required");
+Course CHEM4 = new Course(“CHEM”, “NS207”,“Required");
+Course CHEM5 = new Course(“CHEM”, “BIO321”,“Core”);
+Course CHEM6 = new Course(“CHEM”, “BIO322”,“Core”);
+Course CHEM7 = new Course(“CHEM”, “CHEM369”,“Core”);
+Course CHEM8 = new Course(“CHEM”, “CHEM405”,“Core”);
+Course CHEM9 = new Course(“CHEM”, “ENS202”,“Core”);
+Course CHEM10 = new Course(“CHEM”, “ENS205”,“Core”);
+Course CHEM11 = new Course(“CHEM”, “MAT204”,“Core”);
+Course CHEM12 = new Course(“CHEM”, “MAT310”,“Core”);
+Course CHEM13 = new Course(“CHEM”, “MAT401”,“Core”);
+Course CHEM14 = new Course(“CHEM”, “PHYS302”,“Core”);
+
+
+
